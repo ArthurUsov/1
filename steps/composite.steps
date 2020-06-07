@@ -1,0 +1,2 @@
+Composite: When I fill pass in the registration form
+When I enter `${registeredUserPass}` in field located `By.xpath(//*[@id="password"])`
